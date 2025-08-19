@@ -77,4 +77,4 @@ Improve accuracy with advanced deep learning architectures (CNNs, RNNs, Transfor
 
 - **Muhammed Ahmed** – [MoAhmed229](https://github.com/MoAhmed229)
 
-Malak Waleed – MalakUsername
+- **Malak Waleed** – [malak-waleed1](https://github.com/malak-waleed1)
